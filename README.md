@@ -6,7 +6,7 @@ A Streamlit web application for borrower portfolio risk scoring, band classifica
 
 ## 🚀 Live App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)][https://riskscorecard-4ngw9exuzj9jztbavdjjvo.streamlit.app/)]
+[https://riskscorecard-4ngw9exuzj9jztbavdjjvo.streamlit.app/)]
 
 ---
 

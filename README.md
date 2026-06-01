@@ -128,5 +128,5 @@ risk_scorecard/
 ## 👤 Author
 
 **Ansh Kambli**  
-Data Analyst — Reliance Asset Reconstruction Company  
-[GitHub](https://github.com/AnshKambli) · [Portfolio](https://anshkambli.github.io/Portfolio)
+Data Analyst 
+[GitHub](https://github.com/AnshKambli) 
